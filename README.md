@@ -4,7 +4,7 @@ ML-based personal productivity and day planner. It learns how sleep, phone use, 
 motivation relate to productivity, predicts productivity and distraction risk for each hour, and
 ranks the best focus hours.
 
-Team: Anand, Sukumar, Nagasundar, Raghul
+Navvinram R
 
 ## Run
 
